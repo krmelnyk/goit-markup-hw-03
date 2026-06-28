@@ -5,13 +5,12 @@
 .header-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  gap: 76px;
 }
 
 .page-navigation {
   display: flex;
   align-items: center;
-  gap: 76px;
 }
 
 .logo {
@@ -44,6 +43,7 @@
 }
 
 .contact-information {
+  margin-left: auto;
   font-style: normal;
 }
 

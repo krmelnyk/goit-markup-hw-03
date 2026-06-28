@@ -23,7 +23,7 @@ the WebStudio layout with semantic HTML, CSS, and Flexbox.
 
 ## Layout Details
 
-- The page uses a reusable `.container` with a 1158px width and 15px side
+- The page uses a reusable `.container` with a 1158px max-width and 15px side
   padding.
 - Shared section spacing is handled by the `.section` utility class.
 - Flex layouts use `gap` for spacing instead of right margins.
